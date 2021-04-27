@@ -138,7 +138,6 @@ body {
 #daniel .top-text,
 #jonathan .top-text,
 #patrick .top-text,
-#daniel .quote,
 #jonathan .quote,
 #patrick .quote {
     color: var(--white);
@@ -151,6 +150,10 @@ body {
 #kira .quote,
 #jeanette .quote {
     color: var(--grayish-blue);
+}
+
+#daniel .quote {
+    color: #cfcfcf;
 }
 
 
