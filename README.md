@@ -1,3 +1,9 @@
 # Welcome! 👋
+---
+## Here is my Frontend Mentor project - Testimonials grid section
+---
+### Links
 
-## Frontend Mentor - Testimonials grid section
+[GithubPages Link](https://fytrw.github.io/Testimonials-grid-section/)
+
+[Vercel Link](https://testimonials-grid-section-sepia.vercel.app/)
